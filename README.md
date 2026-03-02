@@ -1,4 +1,4 @@
-# BAN401-Case-Study
+# BAN401-Case-Stuff
 BAN401-T301 Data Warehousing &amp; Mining Apps Case Study  
 By: Nathanael Ochoa
 
